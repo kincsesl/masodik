@@ -1,0 +1,1 @@
+copy con valami2.txt
