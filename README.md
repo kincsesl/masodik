@@ -1,0 +1,2 @@
+# masodik
+Nem fontos elolvasni.
