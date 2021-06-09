@@ -1,2 +1,2 @@
 # masodik
-Nem fontos elolvasni.
+Nem fontos elolvasni. Azért frissítem.
